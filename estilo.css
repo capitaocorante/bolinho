@@ -1,0 +1,90 @@
+@inport url('https://fonts.googleapis.com/css?family=Open+Sans:300,800');
+
+html{
+  font-family: 'Open Sans',sans-serif;
+}
+
+button{
+  font-family: 'Open Sans',sans-serif;
+  background-color: transparent;
+  font-weight: bold;
+  color: white;
+}
+header {
+background-color: gray;
+color:white;
+background-image: url("greve6");
+height: 300px;
+padding-top: 20px;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom:70px;
+
+
+}
+.vermelho {
+  background-color: #CF2227;
+  color:white;
+  font-weight: lighter;
+}
+.branco {
+  color:red;
+  font-weight: lighter;
+}
+.verde {
+  color:red;
+  font-weight: lighter;
+}
+footer {
+  background-color: red;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom:70px;
+
+}
+h1 {
+  font-weight: lighter;
+  font-size: 24px;
+}
+.paragrafo1 {
+  font-size: 64px;
+  margin:0;
+}
+.paragrafo2 {
+  font-size: 24px;
+  margin:0;
+}
+h2 {
+  font-weight: bold;
+  font-size: 35px;
+}
+section {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom:70px;
+
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+body, p {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li {
+  display: inline;
+  padding: 5px;
+}
+img{
+  width: 600px;
+  margin: auto;
+display: block;
+}
+nav {
+margin- border: }
